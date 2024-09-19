@@ -1,0 +1,16 @@
+{
+  "name": "solana_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "0.1.8",
+    "@solana/web3.js": "^1.36.0",
+    "bip32": "1.0.3",
+    "bip39": "^3.0.4",
+    "ed25519-hd-key": "^1.2.0"
+  }
+}
